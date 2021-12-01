@@ -7,7 +7,6 @@
   --clr-neutral-300: 0 0% 81%;
 
   --ff-primary: "Barlow Semi Condensed", sans-serif;
-
   --fw-400: 500;
   --fw-700: 600;
 
@@ -21,6 +20,7 @@
 *::before,
 *::after {
   box-sizing: border-box;
+  color: blue;
 }
 
 /* Remove default margin */
